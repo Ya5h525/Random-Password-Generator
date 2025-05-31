@@ -1,0 +1,65 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 5px;
+  color: #666;
+}
+
+label {
+  margin: 10px 0;
+  font-size: 16px;
+  display: block;
+  color: #444;
+}
+
+.checkbox {
+  margin-right: 8px;
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.002s ease-in-out;
+}
+
+#button:hover {
+  background-color: #45a049;
+}
+
+#button:active{
+     background-color: #84ed89;
+}
+
+#resultPass {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #1c901c;
+  background: #160e0e;
+  padding: 12px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  min-width: 300px;
+  text-align: center;
+}
