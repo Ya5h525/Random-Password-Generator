@@ -25,8 +25,11 @@ This is a simple yet powerful Random Password Generator built using **HTML**, **
 
 ## 📁 Project Structure
 Random-Password-Generator/
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── index.js
 
 ---
