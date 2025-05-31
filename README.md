@@ -14,12 +14,22 @@ This is a simple yet powerful Random Password Generator built using **HTML**, **
 
 ---
 
-## 🛠️ How to Run Locally
+## 🔧 How to Run Locally (Without Git)
 
-1. Clone the repository:
-2. Open the `index.html` file in your browser.
+1. **Download the ZIP:**
+   - Go to this repository.
+   - Click on the green `Code` button.
+   - Select `Download ZIP`.
 
-> No setup or installation needed. Just open and use!
+2. **Extract the ZIP:**
+   - Unzip the downloaded file using your system's extraction tool.
+
+3. **Open the Project:**
+   - Inside the extracted folder, locate the `index.html` file.
+   - Double-click `index.html` to open it in your default browser.
+
+✅ You're all set! The Random Password Generator should now work locally.
+
 
 ---
 
